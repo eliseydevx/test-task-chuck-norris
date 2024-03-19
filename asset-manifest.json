@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-task-chuck-norris/static/css/main.076f391f.css",
+    "main.js": "/test-task-chuck-norris/static/js/main.025fa3ca.js",
+    "index.html": "/test-task-chuck-norris/index.html",
+    "main.076f391f.css.map": "/test-task-chuck-norris/static/css/main.076f391f.css.map",
+    "main.025fa3ca.js.map": "/test-task-chuck-norris/static/js/main.025fa3ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.076f391f.css",
+    "static/js/main.025fa3ca.js"
+  ]
+}
