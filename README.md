@@ -1,5 +1,5 @@
 ## Тестовое задание
-### Сылка на деплой: http://eliseydev.github.io/test-task-chuck-norris
+### Сылка на деплой: https://eliseydevx.github.io/test-task-chuck-norris/
 
 ## Cтек:
 - React
