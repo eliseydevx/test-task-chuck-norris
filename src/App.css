@@ -1,0 +1,29 @@
+.app {
+  margin-top: 128px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 60px;
+}
+
+.app-container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 20px;
+  justify-content: center;
+}
+
+.load-button {
+  box-shadow: 0px 7px 12px 0px rgba(100, 100, 111, 0.2);
+  border: none;
+  background-color: #fff;
+  color: rgb(101, 110, 194);
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 26px;
+  letter-spacing: 0px;
+  padding: 10px 20px;
+  margin-bottom: 50px;
+}
